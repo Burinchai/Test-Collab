@@ -143,7 +143,7 @@ const ProductTable = () => {
                                         Example
                                     </td>
                                     <td scope="col" className="px-6 py-3 w-1/6">
-                                        Example
+                                        Example8
                                     </td>
 
                                 </tr>
